@@ -358,7 +358,7 @@ Add resources in other languages too :point_down:
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
-  - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
+  - :video_camera: [Scrimba React course](https://scrimba.com/learn/learnreact)
 
   ### Angular
   - :file_folder: [Angular Documentation](https://angular.io/docs)
